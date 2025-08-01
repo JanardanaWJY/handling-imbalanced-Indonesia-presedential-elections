@@ -1,11 +1,11 @@
-# Primary Dataset – Indonesian Elections
+# Primary Dataset – Indonesian Presidential Election 2024
 
 This dataset supports the research titled:  
 **"Evaluating Knowledge Distillation for Handling Data Imbalance in IndoBERT Sentiment Analysis for Indonesian Elections"**, authored by the contributors of this repository.
 
 ## Dataset Description
 
-The dataset consists of tweets related to the Indonesian presidential elections. The data were crawled independently by the authors, initially collecting approximately 12,000 raw entries. After manual filtering and preprocessing, the final dataset contains 10,000 tweets. This reduction was intentionally performed to produce an imbalanced label distribution suitable for the research objectives.
+The dataset consists of tweets related to the **2024 Indonesian presidential election**. The data were crawled independently by the authors, initially collecting approximately 12,000 raw entries. After manual filtering and preprocessing, the final dataset contains 10,000 tweets. This reduction was intentionally performed to produce an imbalanced label distribution suitable for the research objectives.
 
 All entries have been manually labeled for sentiment.
 
